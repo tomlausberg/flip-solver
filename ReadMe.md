@@ -2,6 +2,7 @@
 ### Created by Tom Lausberg and Safira Piasko
 Contact: [toml@ethz.ch](mailto:toml@ethz.ch), [spiasko@ethz.ch](mailto:spiasko@ethz.ch)
 
+![animation](images_animations/particle_wave.gif)
 
 ### Dependancies
 - Eigen (version 3.3)
